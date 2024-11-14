@@ -43,7 +43,7 @@ Main Concepts
         
         Explanation: Data augmentation is the process of artificially increasing the size of the training dataset through transformations like rotation, flipping, cropping, and color adjustments.
         
-        Key sources include Simard et al.’s work on augmenting training data in neural networks (2003), which demonstrated that simple transformations could significantly improve generalization.
+        Key sources include Simard’s work on augmenting training data in neural networks (2003), which demonstrated that simple transformations could significantly improve generalization.
         
         This work has influenced a wide range of researchers focused on image recognition and other domains where data quantity can limit model accuracy.
         
