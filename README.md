@@ -9,7 +9,7 @@ Who Is This Repository For?
 Focus: tackling overfitting
 
 One of the main objectives of this repository is to provide tools and insights into mitigating overfitting in neural networks. Overfitting hinders generalization, meaning that models trained this way may fail on new, unseen data. Here, I share resources on:
-- Regularization Techniques (e.g., L2, dropout, batch normalization)
+- Regularization Techniques (e.g. dropout, batch normalization)
 - Data Augmentation to enrich training datasets
 - Best Practices for Model Training that ensure robust AI applications
 
