@@ -40,4 +40,11 @@ real_life_application:
  - This example applies neural networks to classify images, introducing users to how these models solve real-life problems. The example includes a simple CNN architecture suitable for beginners.
  - For the real-life example, you can also use CIFAR-10 if you want a quick setup. (https://github.com/Donotsharemypersonalinfo/Donotsharemypersonalinfo/blob/main/Data.lua)
 
-  
+Bibliography
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278-2324.
+He, K., Zhang, X., Ren, S., & Sun, J. (2015). Delving deep into rectifiers: Surpassing human-level performance on ImageNet classification. Proceedings of the IEEE international conference on computer vision, 1026-1034.
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: A simple way to prevent neural networks from overfitting. The Journal of Machine Learning Research, 15(1), 1929-1958.
+Ioffe, S., & Szegedy, C. (2015). Batch Normalization: Accelerating deep network training by reducing internal covariate shift. Proceedings of the 32nd International Conference on Machine Learning (ICML), 448-456.
+TensorFlow Developers. (2023). Image Augmentation. TensorFlow Documentation.
+Geron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd ed.). O'Reilly Media.
