@@ -18,7 +18,6 @@ By mastering these strategies, you'll be equipped to create models that generali
 In this repository I share a variety of resources to foster learning and collaboration, including:
 
 - Code Examples and Tutorials for hands-on practice
-- Technical Blogs that simplify complex concepts
 - Links to Research Papers for those looking to dive deeper
 - Community Discussions via issues and pull requests to connect and learn from others
 
