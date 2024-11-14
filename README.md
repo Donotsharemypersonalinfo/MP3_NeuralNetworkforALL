@@ -2,7 +2,7 @@ Welcome to Neural Networks for ALL 💡
 - 👋 Hi, I’m Zheng I’m interested in identifying and mitigating overfitting in neural networks, which occurs when a model learns noise instead of the underlying data patterns.
 -  This repository is dedicated to creating a community around practical, accessible, and impactful strategies for developing neural networks. Here, you’ll find resources to help improve neural network performance, with a focus on reducing overfitting—a common challenge where models learn noise instead of valuable data patterns, limiting their effectiveness.
 
-🎯 Who Is This Repository For?
+Who Is This Repository For?
 -  Whether you're an AI researcher, a student eager to dive deeper, or simply someone curious about the latest in AI, Neural Networks for ALL is designed with you in mind. My goal is to support a community that values not only technical advancements in machine learning but also the broader implications of these advancements in areas like healthcare, finance, and autonomous systems.
    I strive to make complex neural network concepts accessible, enabling both newcomers and practitioners to better understand and control model behavior. This work is essential for building more reliable, safe, and ethical AI that can make a difference in the real world.
 
