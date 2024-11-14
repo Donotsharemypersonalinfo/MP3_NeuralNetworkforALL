@@ -1,6 +1,5 @@
 import tensorflow as tf
 import numpy as np
-
 # Generate synthetic dataset
 X = np.linspace(-1, 1, 200)
 y = 3 * X + np.random.normal(0, 0.3, X.shape)
