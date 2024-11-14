@@ -15,6 +15,8 @@ One of the main objectives of this repository is to provide tools and insights i
 
 By mastering these strategies, you'll be equipped to create models that generalize better and perform consistently across diverse data.
 
+These strategies has become metaphor for “safeguarding” machine learning models against misleading trends, inspiring innovations and fostering more accessible public understanding of regularization in AI models.
+
 In this repository I share a variety of resources to foster learning and collaboration, including:
 
 - Code Examples and Tutorials for hands-on practice
