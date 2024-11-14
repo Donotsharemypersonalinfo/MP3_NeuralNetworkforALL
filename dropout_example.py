@@ -16,7 +16,6 @@ model = tf.keras.Sequential([
     tf.keras.layers.Dense(20, activation='relu'),
     tf.keras.layers.Dense(1)
 ])
-
 # Compile and train the model
 model.compile(optimizer='adam', loss='mse')
 history = model.fit(X_train, y_train, epochs=100, validation_data=(X_val, y_val), verbose=0)
