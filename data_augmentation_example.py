@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 # Sample images using CIFAR-10 dataset for demonstration
 (X_train, y_train), _ = tf.keras.datasets.cifar10.load_data()
 X_sample = X_train[:1]  # Use a single sample for visualization
-
 # Set up data augmentation
 datagen = ImageDataGenerator(
     rotation_range=30,
