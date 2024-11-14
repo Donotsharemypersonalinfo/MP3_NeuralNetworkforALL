@@ -34,3 +34,5 @@ Additional notes available at: https://github.com/lijqhs/deeplearning-notes
 Direction:
 For detailed descriptions and explanations of each code example, refer to Description&Explanations.md. Additionally, MainConcepts.md lists the key concepts.
 
+
+
