@@ -28,3 +28,7 @@ In addition to the resources here, members of this discourse community communica
 Thank you for being here. Let’s advance AI together!!
 
 Additional notes available at: https://github.com/lijqhs/deeplearning-notes
+
+Direction:
+For detailed descriptions and explanations of each code example, refer to Description&Explanations.md. Additionally, Ideas.md lists the key concepts.
+
