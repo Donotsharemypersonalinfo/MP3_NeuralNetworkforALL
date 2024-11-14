@@ -26,3 +26,5 @@ My goal is to introduce the theories in accessible way and bridge the gap betwee
 In addition to the resources here, members of this discourse community communicate through journals, conferences, forums, and social media platforms.You're encouraged to join these conversations, as they are excellent places to explore new ideas, share findings, and stay current with the latest trends in AI.
 
 Thank you for being here. Let’s advance AI together!!
+
+Additional notes available at: https://github.com/lijqhs/deeplearning-notes
