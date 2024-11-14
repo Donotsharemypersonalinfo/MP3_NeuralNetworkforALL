@@ -41,6 +41,7 @@ real_life_application:
  - For the real-life example, you can also use CIFAR-10 if you want a quick setup. (https://github.com/Donotsharemypersonalinfo/Donotsharemypersonalinfo/blob/main/Data.lua)
 
 Bibliography
+
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
 LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278-2324.
 He, K., Zhang, X., Ren, S., & Sun, J. (2015). Delving deep into rectifiers: Surpassing human-level performance on ImageNet classification. Proceedings of the IEEE international conference on computer vision, 1026-1034.
