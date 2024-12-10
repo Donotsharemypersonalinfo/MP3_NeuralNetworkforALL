@@ -34,3 +34,5 @@ plt.ylabel('Loss')
 plt.legend()
 plt.title("Effect of Batch Normalization on Training Stability")
 plt.show()
+
+
