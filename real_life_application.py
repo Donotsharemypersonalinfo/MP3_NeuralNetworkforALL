@@ -32,6 +32,8 @@ model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy']
 history = model.fit(train_data, epochs=5, validation_data=val_data)
 # Plotting training and validation accuracy
 plt.plot(history.history['accuracy'], label='Training Accuracy')
+plt.xlabel('Epochs')
+plt.ylabel('Accuracy')
 plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
 plt.xlabel('Epochs')
 plt.ylabel('Accuracy')
