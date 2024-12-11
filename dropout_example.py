@@ -14,7 +14,7 @@ model = tf.keras.Sequential([
     tf.keras.layers.Dense(20, activation='relu', input_shape=(1,)),
     tf.keras.layers.Dropout(0.5),
     tf.keras.layers.Dense(20, activation='relu'),
-    tf.keras.layers.Dense(1)
+    tf.keras.layers.Dense(0.5)
 ])
 # Compile and train the model
 model.compile(optimizer='adam', loss='mse')
