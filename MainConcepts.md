@@ -79,3 +79,4 @@ Ng, A. Y. (2004). Feature selection, L1 vs. L2 regularization, and rotational in
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press.
 
 Driscoll, D. (2011). Introduction to primary research: Observations, surveys, and interviews. In C. Lowe & P. Zemliansky (Eds.), Writing spaces: Readings on writing (Vol. 2, pp. 153–174). Parlor Press.
+
