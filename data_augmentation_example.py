@@ -3,7 +3,8 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import matplotlib.pyplot as plt
 
 # Sample images using CIFAR-10 dataset for demonstration
-(X_train, y_train), _ = tf.keras.datasets.cifar10.load_data()
+(X_train, y_train), _ = datasets.cifar10.load_data()
+X_train = X_train/250, y_train = y_train/250
 X_sample = X_train[:1]  # Use a single sample for visualization
 # Set up data augmentation
 datagen = ImageDataGenerator(
