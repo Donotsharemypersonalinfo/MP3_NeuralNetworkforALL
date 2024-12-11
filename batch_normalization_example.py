@@ -27,7 +27,10 @@ history_without_bn = model_without_bn.fit(X, y, epochs=100, verbose=0)
 history_with_bn = model_with_bn.fit(X, y, epochs=100, verbose=0)
 
 # Plotting the results
+
 plt.plot(history_without_bn.history['loss'], label='Without Batch Normalization')
+plt.xlabel('Epochs')
+plt.ylabel('Loss')
 plt.plot(history_with_bn.history['loss'], label='With Batch Normalization')
 plt.xlabel('Epochs')
 plt.ylabel('Loss')
