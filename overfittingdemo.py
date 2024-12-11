@@ -13,8 +13,8 @@ X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.5, random_st
 # Define a simple neural network model
 model = tf.keras.Sequential([
     tf.keras.layers.Dense(20, activation='relu', input_shape=(1,)),
-    tf.keras.layers.Dense(20, activation='relu'),
-    tf.keras.layers.Dense(1)
+    tf.keras.layers.Dense(20, activation='relu', input_shape=(1,)),
+    tf.keras.layers.Dense(5)
 ])
 
 # Compile the model
